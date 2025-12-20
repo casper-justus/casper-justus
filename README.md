@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Casper Justus 👨‍💻
 
-<!--
-**casper-justus/casper-justus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Linux enthusiast and DevOps specialist based in Kenya. I'm passionate about containerization, automation, and building scalable infrastructure. Currently learning Kubernetes and exploring opportunities in DevOps automation.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Containerization**: Docker, Docker Compose
+- **Infrastructure**: Traefik, Proxmox
+- **Automation**: n8n, Bash, Python
+- **Networking**: Tailscale, VPNs
+- **OS**: Ubuntu/Linux, Windows Server
+- **Languages**: Bash, Python, YAML, JSON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I'm Working On
+- Building a self-hosted homelab with Docker and Traefik
+- Creating n8n automation workflows for productivity
+- Learning infrastructure automation best practices
+
+## 📝 Recent Articles
+- [Check out my Medium blog]([https://medium.com/@njahjustus])
+
+## 📫 Let's Connect
+- **LinkedIn**: [Your Profile](https://linkedin.com/in/justus-njagi-b6a271257)
+- **Email**: njahjustus@gmail.com
+- **Upwork**: [Your Profile]([https://upwork.com/fl/~01bc35f3e297a64db7])
+
+---
+*Always learning. Always building. Based in Kenya. 🇰🇪*
