@@ -1,4 +1,4 @@
-# Hey, I'm Casper Justus 👨‍💻
+# Hey, I'm Justus Njagi 👨‍💻
 
 ## About Me
 Linux enthusiast and DevOps specialist based in Kenya. I'm passionate about containerization, automation, and building scalable infrastructure. Currently learning Kubernetes and exploring opportunities in DevOps automation.
@@ -20,9 +20,9 @@ Linux enthusiast and DevOps specialist based in Kenya. I'm passionate about cont
 - [Check out my Medium blog]([https://medium.com/@njahjustus])
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/justus-njagi-b6a271257)
+- **LinkedIn**: [My Profile]([https://linkedin.com/in/justus-njagi-b6a271257])
 - **Email**: njahjustus@gmail.com
-- **Upwork**: [Your Profile]([https://upwork.com/fl/~01bc35f3e297a64db7])
+- **Upwork**: [My Profile]([https://upwork.com/fl/~01bc35f3e297a64db7])
 
 ---
 *Always learning. Always building. Based in Kenya. 🇰🇪*
