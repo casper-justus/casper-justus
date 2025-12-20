@@ -17,12 +17,12 @@ Linux enthusiast and DevOps specialist based in Kenya. I'm passionate about cont
 - Learning infrastructure automation best practices
 
 ## 📝 Recent Articles
-- [Check out my Medium blog]([https://medium.com/@njahjustus])
+- [Check out my Medium blog](https://medium.com/@njahjustus)
 
 ## 📫 Let's Connect
-- **LinkedIn**: [My Profile]([https://linkedin.com/in/justus-njagi-b6a271257])
+- **LinkedIn**: [My Profile](https://linkedin.com/in/justus-njagi-b6a271257)
 - **Email**: njahjustus@gmail.com
-- **Upwork**: [My Profile]([https://upwork.com/fl/~01bc35f3e297a64db7])
+- **Upwork**: [My Profile](https://upwork.com/fl/~01bc35f3e297a64db7)
 
 ---
 *Always learning. Always building. Based in Kenya. 🇰🇪*
