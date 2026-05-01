@@ -12,11 +12,11 @@ When I'm not coding, I'm usually building homelab infrastructure, tweaking Linux
 - **Tools:** Git, Vercel, Railway, n8n Automation, Ollama (Local AI)
 
 ### 🚀 Featured Projects
-- **[End-to-End MLOps Pipeline](mlops-churn-pipeline):** Automated ML training and deployment system using Python, MLflow, Docker, and AWS EC2.
-- **[Real-Time Data Pipeline](crypto-pipeline):** Streaming data pipeline processing live events with Apache Kafka and PostgreSQL.
-- **[AWS Infrastructure-as-Code](aws-fullstack-infra):** Automated cloud infrastructure provisioning using Terraform, Docker, and Prometheus/Grafana.
-- **[Production-Grade REST API](api-platform):** Scalable TypeScript/Node.js API with PostgreSQL, Prisma, JWT auth, and automated testing.
-- **[RAG AI Assistant](rag-pipeline):** Context-aware chatbot built with LangChain, Gemini API, Qdrant vector DB, and Next.js.
+- **[End-to-End MLOps Pipeline](https://github.com/casper-justus/mlops-churn-pipeline):** Automated ML training and deployment system using Python, MLflow, Docker, and AWS EC2.
+- **[Real-Time Data Pipeline](https://github.com/casper-justus/crypto-pipeline):** Streaming data pipeline processing live events with Apache Kafka and PostgreSQL.
+- **[AWS Infrastructure-as-Code](https://github.com/casper-justus/aws-fullstack-infra):** Automated cloud infrastructure provisioning using Terraform, Docker, and Prometheus/Grafana.
+- **[Production-Grade REST API](https://github.com/casper-justus/api-platform):** Scalable TypeScript/Node.js API with PostgreSQL, Prisma, JWT auth, and automated testing.
+- **[RAG AI Assistant](https://github.com/casper-justus/rag-pipeline):** Context-aware chatbot built with LangChain, Gemini API, Qdrant vector DB, and Next.js.
 
 ### 📈 GitHub Stats
 <p align="left">
@@ -25,5 +25,5 @@ When I'm not coding, I'm usually building homelab infrastructure, tweaking Linux
 </p>
 
 ### 📫 Let's Connect!
-- **[LinkedIn]:**[www.linkedin.com/in/casper-justus] 
-- **[Portfolio/Website](#)** 
+- **LinkedIn:** [casper-justus](https://www.linkedin.com/in/casper-justus) 
+- **Portfolio/Website:** [Your Website Name](https://yourwebsite.com) <!-- Replace this URL with your actual portfolio or Upwork link -->
