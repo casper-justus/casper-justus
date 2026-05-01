@@ -12,11 +12,11 @@ When I'm not coding, I'm usually building homelab infrastructure, tweaking Linux
 - **Tools:** Git, Vercel, Railway, n8n Automation, Ollama (Local AI)
 
 ### 🚀 Featured Projects
-- **[End-to-End MLOps Pipeline](#):** Automated ML training and deployment system using Python, MLflow, Docker, and AWS EC2.
-- **[Real-Time Data Pipeline](#):** Streaming data pipeline processing live events with Apache Kafka and PostgreSQL.
-- **[AWS Infrastructure-as-Code](#):** Automated cloud infrastructure provisioning using Terraform, Docker, and Prometheus/Grafana.
-- **[Production-Grade REST API](#):** Scalable TypeScript/Node.js API with PostgreSQL, Prisma, JWT auth, and automated testing.
-- **[RAG AI Assistant](#):** Context-aware chatbot built with LangChain, Gemini API, Qdrant vector DB, and Next.js.
+- **[End-to-End MLOps Pipeline](casper-justus/mlops-churn-pipeline):** Automated ML training and deployment system using Python, MLflow, Docker, and AWS EC2.
+- **[Real-Time Data Pipeline](casper-justus/crypto-pipeline):** Streaming data pipeline processing live events with Apache Kafka and PostgreSQL.
+- **[AWS Infrastructure-as-Code](casper-justus/aws-fullstack-infra):** Automated cloud infrastructure provisioning using Terraform, Docker, and Prometheus/Grafana.
+- **[Production-Grade REST API](casper-justus/api-platform):** Scalable TypeScript/Node.js API with PostgreSQL, Prisma, JWT auth, and automated testing.
+- **[RAG AI Assistant](casper-justus/rag-pipeline):** Context-aware chatbot built with LangChain, Gemini API, Qdrant vector DB, and Next.js.
 
 ### 📈 GitHub Stats
 <p align="left">
