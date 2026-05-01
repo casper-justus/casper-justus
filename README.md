@@ -29,4 +29,4 @@ When I'm not coding, I'm usually building homelab infrastructure, tweaking Linux
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [Justus Njagi](https://www.linkedin.com/in/casper-justus) 
-- **Website:** [Portfolio](https://yourwebsite.com) <!-- Replace this URL with your actual portfolio or Upwork link -->
+- **Website:** [casper-justus.vercel.app](https://casper-justus.vercel.app)
