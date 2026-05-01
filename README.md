@@ -20,8 +20,11 @@ When I'm not coding, I'm usually building homelab infrastructure, tweaking Linux
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=casper-justus&show_icons=true&theme=radical" alt="casper-justus github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casper-justus&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=casper-justus&theme=radical" alt="casper-justus github stats" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=casper-justus&theme=radical" alt="Top Languages" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=casper-justus&theme=radical" alt="Most Commits" width="45%" />
 </p>
 
 ### 📫 Let's Connect!
