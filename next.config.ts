@@ -1,10 +1,10 @@
-// next.config.ts
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "export",        // ← THIS is what creates the /out folder
+  output: "export",
+  basePath: "/casper-justus",   // ← add this
   images: {
-    unoptimized: true,     // required for static export
+    unoptimized: true,
   },
 };
 
