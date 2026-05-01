@@ -68,6 +68,12 @@ export const Skills = () => {
 export const Projects = () => {
   const projects = [
     {
+      id: 'mlops-pipeline.exe',
+      tech: 'Python, Docker, AWS',
+      impact: 'Automated training pipelines for deep learning models.',
+      repo: null,
+    },
+    {
       id: 'rag-chatbot.py',
       tech: 'LangChain, Gemini API, Qdrant',
       impact: 'Context-aware RAG system for private documentation.',
@@ -108,14 +114,18 @@ export const Projects = () => {
             {projects.map((p) => (
               <tr key={p.id} className="hover:bg-white/5 cursor-pointer group">
                 <td className="p-2 border border-gray-800">
-                  <a
-                    href={p.repo}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-blue-400 font-bold hover:text-blue-300 hover:underline"
-                  >
-                    ./{p.id}
-                  </a>
+                  {p.repo ? (
+                    <a
+                      href={p.repo}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-blue-400 font-bold hover:text-blue-300 hover:underline"
+                    >
+                      ./{p.id}
+                    </a>
+                  ) : (
+                    <span className="text-blue-400 font-bold">./{p.id}</span>
+                  )}
                 </td>
                 <td className="p-2 border border-gray-800 text-xs text-gray-400">{p.tech}</td>
                 <td className="p-2 border border-gray-800 text-sm">{p.impact}</td>
