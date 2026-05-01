@@ -67,11 +67,30 @@ export const Skills = () => {
 
 export const Projects = () => {
   const projects = [
-    { id: 'mlops-pipeline.exe', tech: 'Python, Docker, AWS', impact: 'Automated training pipelines for deep learning models.' },
-    { id: 'crypto-stream.sh', tech: 'Go, Kafka, Redis', impact: 'Real-time websocket stream for global crypto exchanges.' },
-    { id: 'aws-infra.tf', tech: 'Terraform, AWS, GitHub Actions', impact: 'Multi-region disaster recovery infrastructure as code.' },
-    { id: 'api-platform.ts', tech: 'Next.js, NestJS, K8s', impact: 'Unified developer portal for internal microservices.' },
-    { id: 'rag-chatbot.py', tech: 'LangChain, OpenAI, Pinecone', impact: 'Context-aware RAG system for private documentation.' },
+    {
+      id: 'rag-chatbot.py',
+      tech: 'LangChain, Gemini API, Qdrant',
+      impact: 'Context-aware RAG system for private documentation.',
+      repo: 'https://github.com/casper-justus/rag-chatbot',
+    },
+    {
+      id: 'api-platform.ts',
+      tech: 'TypeScript, PostgreSQL, Prisma, JWT',
+      impact: 'Production-grade REST API with auth and Jest tests.',
+      repo: 'https://github.com/casper-justus/api-platform',
+    },
+    {
+      id: 'aws-infra.tf',
+      tech: 'Terraform, AWS, Docker, Prometheus',
+      impact: 'Multi-region disaster recovery infrastructure as code.',
+      repo: 'https://github.com/casper-justus/aws-fullstack-infra',
+    },
+    {
+      id: 'crypto-stream.sh',
+      tech: 'Python, Kafka, PostgreSQL',
+      impact: 'Real-time crypto data streaming pipeline.',
+      repo: 'https://github.com/casper-justus/crypto-pipeline',
+    },
   ];
 
   return (
@@ -88,14 +107,23 @@ export const Projects = () => {
           <tbody>
             {projects.map((p) => (
               <tr key={p.id} className="hover:bg-white/5 cursor-pointer group">
-                <td className="p-2 border border-gray-800 text-blue-400 font-bold">./{p.id}</td>
+                <td className="p-2 border border-gray-800">
+                  <a
+                    href={p.repo}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-400 font-bold hover:text-blue-300 hover:underline"
+                  >
+                    ./{p.id}
+                  </a>
+                </td>
                 <td className="p-2 border border-gray-800 text-xs text-gray-400">{p.tech}</td>
                 <td className="p-2 border border-gray-800 text-sm">{p.impact}</td>
               </tr>
             ))}
           </tbody>
         </table>
-        <p className="text-xs text-gray-500 animate-pulse">Tip: Try typing the command name to see details (e.g., ./aws-infra.tf)</p>
+        <p className="text-xs text-gray-500 animate-pulse">Tip: Click any project to view the repo on GitHub.</p>
       </div>
     </div>
   );
@@ -105,8 +133,8 @@ export const Contact = () => (
   <div className="space-y-4">
     <div className="space-y-1">
       <p>Email: <a href="mailto:njahjustus@gmail.com" className="text-blue-400 hover:underline">njahjustus@gmail.com</a></p>
-      <p>LinkedIn: <a href="linkedin.com/in/casper-justus" className="text-blue-400 hover:underline">Linkedin</a></p>
-      <p>GitHub: <a href="github.com/casper-justus" className="text-blue-400 hover:underline">Github</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/casper-justus" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Linkedin</a></p>
+      <p>GitHub: <a href="https://github.com/casper-justus" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Github</a></p>
     </div>
     <div className="border border-gray-800 p-4 rounded bg-black/20">
       <p className="text-yellow-400 mb-2">Looking Forward to working with you :)</p>
