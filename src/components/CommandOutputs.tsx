@@ -1,1 +1,115 @@
-aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKCmV4cG9ydCBjb25zdCBBYm91dCA9ICgpID0+ICgKICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgIDxwIGNsYXNzTmFtZT0idGV4dC1ibHVlLTQwMCI+eyd7J308L3A+CiAgICA8ZGl2IGNsYXNzTmFtZT0icGwtNCI+CiAgICAgIDxwPjxzcGFuIGNsYXNzTmFtZT0idGV4dC1wdXJwbGUtNDAwIj4ibmFtZSI8L3NwYW4+OiA8c3BhbiBjbGFzc05hbWU9InRleHQtZ3JlZW4tNDAwIj4iSnVzdHVzIE5qYWdpIjwvc3Bhbj4sPC9wPgogICAgICA8cD48c3BhbiBjbGFzc05hbWU9InRleHQtcHVycGxlLTQwMCI+ImxvY2F0aW9uIjwvc3Bhbj46IDxzcGFuIGNsYXNzTmFtZT0idGV4dC1ncmVlbi00MDAiPiJOYWlyb2JpLCBLZW55YSI8L3NwYW4+LDwvcD4KICAgICAgPHA+PHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXB1cnBsZS00MDAiPiJyb2xlIjwvc3Bhbj46IDxzcGFuIGNsYXNzTmFtZT0idGV4dC1ncmVlbi00MDAiPiJTb2Z0d2FyZSBFbmdpbmVlcixDbG91ZCBFbmdpbmVlciAmYW1wOyBTeXNBZG1pbiI8L3NwYW4+LDwvcD4KICAgICAgPHA+PHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXB1cnBsZS00MDAiPiJzcGVjaWFsaXphdGlvbiI8L3NwYW4+OiBbPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LWdyZWVuLTQwMCI+IkFXUyI8L3NwYW4+LCA8c3BhbiBjbGFzc05hbWU9InRleHQtZ3JlZW4tNDAwIj4iTGludXggS2VybmVscyI8L3NwYW4+LCA8c3BhbiBjbGFzc05hbWU9InRleHQtZ3JlZW4tNDAwIj4iRG9ja2VyIjwvc3Bhbj4sIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1ncmVlbi00MDAiPiJBSSBQaXBlbGluZXMiPC9zcGFuPiw8c3BhbiBjbGFzc05hbWU9InRleHQtZ3JlZW4tNDAwIj4iUmVhY3QiPC9zcGFuPiwgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LWdyZWVuLTQwMCI+IlB5dGhvbiI8L3NwYW4+LCA8c3BhbiBjbGFzc05hbWU9InRleHQtZ3JlZW4tNDAwIj4iQS5JIjwvc3Bhbj4sIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1ncmVlbi00MDAiPiJGdWxsc3RhY2sgRGV2ZWxvcG1lbnQiPC9zcGFuPiwgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LWdyZWVuLTQwMCI+IkNsb3VkIGNvbXB1dGluZyI8L3NwYW4+XSA8L3A+CiAgICAgIDxwPjxzcGFuIGNsYXNzTmFtZT0idGV4dC1wdXJwbGUtNDAwIj4iYmlvIjwvc3Bhbj46IDxzcGFuIGNsYXNzTmFtZT0idGV4dC1ncmVlbi00MDAiPiJEZWVwIHN5c3RlbXMga25vd2xlZGdlIG1lZXRzIG1vZGVybiBmcm9udGVuZCBleGVjdXRpb24uIEZyb20gbG93LWxldmVsIGtlcm5lbCB0dW5pbmcgdG8gc2NhbGluZyBNTE9wcyBpbmZyYXN0cnVjdHVyZS4iPC9zcGFuPjwvcD4KICAgIDwvZGl2PgogICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWJsdWUtNDAwIj57J30nfTwvcD4KICA8L2Rpdj4KKTsKCmV4cG9ydCBjb25zdCBTa2lsbHMgPSAoKSA9PiB7CiAgY29uc3QgY2F0ZWdvcmllcyA9IFsKICAgIHsKICAgICAgbGFiZWw6ICdMYW5ndWFnZXMnLAogICAgICBza2lsbHM6IFsnVHlwZVNjcmlwdCcsICdKYXZhU2NyaXB0JywgJ1B5dGhvbicsICdCYXNoL1NoZWxsJywgJ0dvJywgJ1NRTCddLAogICAgICBjb2xvcjogJ2JnLXNreS01MDAнCiAgICB9LAogICAgewogICAgICBsYWJlbDogJ0Zyb250ZW5kJywKICAgICAgc2tpbGxzOiBbJ1JlYWN0JywgJ05leHQuanMnLCAnVGFpbHdpbmQgQ1NTJywgJ0ZyYW1lciBNb3Rpb24nXSwKICAgICAgY29sb3I6ICdiZy1waW5rLTUwMCcKICAgIH0sCiAgICB7CiAgICAgIGxhYmVsOiAnRGV2T3BzJywKICAgICAgc2tpbGxzOiBbJ0RvY2tlcicsICdLdWJlcm5ldGVzJywgJ1RlcnJhZm9ybScsICdBV1MnLCAnR2l0SHViIEFjdGlvbnMnXSwKICAgICAgY29sb3I6ICdiZy1ibHVlLTUwMCcKICAgIH0sCiAgICB7CiAgICAgIGxhYmVsOiAnQmFja2VuZCcsCiAgICAgIHNraWxsczogWydOb2RlLmpzJywgJ05lc3RKUycsICdQb3N0Z3JlU1FMJywgJ1JlZGlzJywgJ0thZmthJ10sCiAgICAgIGNvbG9yOiAnYmctZ3JlZW4tNTAwJwogICAgfSwKICAgIHsKICAgICAgbGFiZWw6ICdTeXN0ZW1zJywKICAgICAgc2tpbGxzOiBbJ0xpbnV4JywgJ0tlcm5lbCBUdW5pbmcnLCAnTmV0d29ya2luZycsICduOG4nLCAnT3BlbkNvcmUnXSwKICAgICAgY29sb3I6ICdiZy15ZWxsb3ctNTAwJwogICAgfSwKICAgIHsKICAgICAgbGFiZWw6ICdBSSAmIE1MJywKICAgICAgc2tpbGxzOiBbJ0xhbmdDaGFpbicsICdPbGxhbWEnLCAnR2VtaW5pIEFQSScsICdSQUcgUGlwZWxpbmVzJywgJ09wZW5BSSddLAogICAgICBjb2xvcjogJ2JnLXB1cnBsZS01MDAнCiAgICB9LAogIF07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS00IHB5LTIiPgogICAgICA8cCBjbGFzc05hbWU9InRleHQtZ3JheS00MDAiPiMgVXNlciBQcm9maWNpZW5jeSA8L3A+CiAgICAgIHtjYXRlZ29yaWVzLm1hcCgoY2F0KSA9PiAoCiAgICAgICAgPGRpdiBrZXk9e2NhdC5sYWJlbH0gY2xhc3NOYW1lPSJncmlkIGdyaWQtY29scy0xIG1kOmdyaWQtY29scy0yIGdhcC0yIG1heC13LW1kIj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1wdXJwbGUtNDAwIj57Y2F0LmxhYmVsfTo8L3NwYW4+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgZ2FwLTIiPgogICAgICAgICAgICB7Y2F0LnNraWxscy5tYXAocyA9PiAoCiAgICAgICAgICAgICAgPHNwYW4ga2V5PXtzfSBjbGFzc05hbWU9InB4LTIgcHktMC41IGJnLWdyYXktODAwIGJvcmRlciBib3JkZXItZ3JheS03MDAgcm91bmRlZCB0ZXh0LXhzIj57c308L3NwYW4+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICkpfQogICAgPC9kaXY+CiAgKTsKfTsKCmV4cG9ydCBjb25zdCBQcm9qZWN0cyA9ICgpID0+IHsKICBjb25zdCBwcm9qZWN0cyA9IFsKICAgIHsgaWQ6ICdtbG9wcy1waXBlbGluZS5leGUnLCB0ZWNoOiAnUHl0aG9uLCBEb2NrZXIsIEFXUycsIGltcGFjdDogJ0F1dG9tYXRlZCB0cmFpbmluZyBwaXBlbGluZXMgZm9yIGRlZXAgbGVhcm5pbmcgbW9kZWxzLicgfSwKICAgIHsgaWQ6ICdjcnlwdG8tc3RyZWFtLnNoJywgdGVjaDogJ0dvLCBLYWZrYSwgUmVkaXMnLCBpbXBhY3Q6ICdSZWFsLXRpbWUgd2Vic29ja2V0IHN0cmVhbSBmb3IgZ2xvYmFsIGNyeXB0byBleGNoYW5nZXMuJyB9LAogICAgeyBpZDogJ2F3cy1pbmZyYS50ZicsIHRlY2g6ICdUZXJyYWZvcm0sIEFXUywgR2l0SHViIEFjdGlvbnMnLCBpbXBhY3Q6ICdNdWx0aS1yZWdpb24gZGlzYXN0ZXIgcmVjb3ZlcnkgaW5mcmFzdHJ1Y3R1cmUgYXMgY29kZS4nIH0sCiAgICB7IGlkOiAnYXBpLXBsYXRmb3JtLnRzJywgdGVjaDogJ05leHQuanMsIE5lc3RKUywgSzhzJywgaW1wYWN0OiAnVW5pZmllZCBkZXZlbG9wZXIgcG9ydGFsIGZvciBpbnRlcm5hbCBtaWNyb3NlcnZpY2VzLicgfSwKICAgIHsgaWQ6ICdyYWctY2hhdGJvdC5weScsIHRlY2g6ICdMYW5nQ2hhaW4sIE9wZW5BSSwgUGluZWNvbmUnLCBpbXBhY3Q6ICdDb250ZXh0LWF3YXJlIFJBRyBzeXN0ZW0gZm9yIHByaXZhdGUgZG9jdW1lbnRhdGlvbi4nIH0sCiAgXTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJweS0yIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgZ2FwLTQgbXQtMiI+CiAgICAgICAgPHRhYmxlIGNsYXNzTmFtZT0idy1mdWxsIHRleHQtbGVmdCBib3JkZXItY29sbGFwc2UgYm9yZGVyIGJvcmRlci1ncmF5LTgwMCI+CiAgICAgICAgICA8dGhlYWQ+CiAgICAgICAgICAgIDx0ciBjbGFzc05hbWU9ImJnLWdyYXktODAwLzUwIj4KICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJwLTIgYm9yZGVyIGJvcmRlci1ncmF5LTgwMCI+Q29tbWFuZDwvdGg+CiAgICAgICAgICAgICAgPHRoIGNsYXNzTmFtZT0icC0yIGJvcmRlciBib3JkZXItZ3JheS04MDAiPlN0YWNrPC90aD4KICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJwLTIgYm9yZGVyIGJvcmRlci1ncmF5LTgwMCI+SW1wYWN0PC90aD4KICAgICAgICAgICAgPC90cj4KICAgICAgICAgIDwvdGhlYWQ+CiAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgIHtwcm9qZWN0cy5tYXAoKHApID0+ICgKICAgICAgICAgICAgICA8dHIga2V5PXtwLmlkfSBjbGFzc05hbWU9ImhvdmVyOmJnLXdoaXRlLzUgY3Vyc29yLXBvaW50ZXIgZ3JvdXAiPgogICAgICAgICAgICAgICAgPHRkIGNsYXNzTmFtZT0icC0yIGJvcmRlciBib3JkZXItZ3JheS04MDAgdGV4dC1ibHVlLTQwMCBmb250LWJvbGQiPi4ve3AuaWR9PC90ZD4KICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InAtMiBib3JkZXIgYm9yZGVyLWdyYXktODAwIHRleHQteHMgdGV4dC1ncmF5LTQwMCI+e3AudGVjaH08L3RkPgogICAgICAgICAgICAgICAgPHRkIGNsYXNzTmFtZT0icC0yIGJvcmRlciBib3JkZXItZ3JheS04MDAgdGV4dC1zbSI+e3AuaW1wYWN0fTwvdGQ+CiAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L3Rib2R5PgogICAgICAgIDwvdGFibGU+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtZ3JheS01MDAgYW5pbWF0ZS1wdWxzZSI+VGlwOiBUcnkgdHlwaW5nIHRoZSBjb21tYW5kIG5hbWUgdG8gc2VlIGRldGFpbHMgKGUuZy4sIC4vYXdzLWluZnJhLnRmKTwvcD4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9OwoKZXhwb3J0IGNvbnN0IENvbnRhY3QgPSAoKSA9PiAoCiAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0xIj4KICAgICAgPHA+RW1haWw6IDxhIGhyZWY9Im1haWx0bzpuamFoanVzdHVzQGdtYWlsLmNvbSIgY2xhc3NOYW1lPSJ0ZXh0LWJsdWUtNDAwIGhvdmVyOnVuZGVybGluZSI+bmplaGp1c3R1c0BnbWFpbC5jb208L2E+PC9wPgogICAgICA8cD5MaW5rZWRJbjogPGEgaHJlZj0ibGlua2VkaW4uY29tL2luL2Nhc3Blci1qdXN0dXMiIGNsYXNzTmFtZT0idGV4dC1ibHVlLTQwMCBob3Zlcjp1bmRlcmxpbmUiPkxpbmtlZGluPC9hPjwvcD4KICAgICAgPHA+R2l0SHViOiA8YSBocmVmPSJnaXRodWIuY29tL2Nhc3Blci1qdXN0dXMiIGNsYXNzTmFtZT0idGV4dC1ibHVlLTQwMCBob3Zlcjp1bmRlcmxpbmUiPkdpdGh1YjwvYT48L3A+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXIgYm9yZGVyLWdyYXktODAwIHAtNCByb3VuZGVkIGJnLWJsYWNrLzIwIj4KICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXllbGxvdy00MDAgbWItMiI+TG9va2luZyBGb3J3YXJkIHRvIHdvcmtpbmcgd2l0aCB5b3UgOikgPC9wPgogICAgPC9kaXY+CiAgPC9kaXY+Cik7Cg==
+import React from 'react';
+
+export const About = () => (
+  <div className="space-y-2">
+    <p className="text-blue-400">{'{'}</p>
+    <div className="pl-4">
+      <p><span className="text-purple-400">"name"</span>: <span className="text-green-400">"Justus Njagi"</span>,</p>
+      <p><span className="text-purple-400">"location"</span>: <span className="text-green-400">"Nairobi, Kenya"</span>,</p>
+      <p><span className="text-purple-400">"role"</span>: <span className="text-green-400">"Software Engineer, Cloud Engineer & SysAdmin"</span>,</p>
+      <p><span className="text-purple-400">"specialization"</span>: [<span className="text-green-400">"AWS"</span>, <span className="text-green-400">"Linux Kernels"</span>, <span className="text-green-400">"Docker"</span>, <span className="text-green-400">"AI Pipelines"</span>, <span className="text-green-400">"React"</span>, <span className="text-green-400">"Python"</span>, <span className="text-green-400">"A.I"</span>, <span className="text-green-400">"Fullstack Development"</span>, <span className="text-green-400">"Cloud computing"</span>]</p>
+      <p><span className="text-purple-400">"bio"</span>: <span className="text-green-400">"Deep systems knowledge meets modern frontend execution. From low-level kernel tuning to scaling MLOps infrastructure."</span></p>
+    </div>
+    <p className="text-blue-400">{'}'}</p>
+  </div>
+);
+
+export const Skills = () => {
+  const categories = [
+    {
+      label: 'Languages',
+      skills: ['TypeScript', 'JavaScript', 'Python', 'Bash/Shell', 'Go', 'SQL'],
+      color: 'bg-sky-500',
+    },
+    {
+      label: 'Frontend',
+      skills: ['React', 'Next.js', 'Tailwind CSS', 'Framer Motion'],
+      color: 'bg-pink-500',
+    },
+    {
+      label: 'DevOps',
+      skills: ['Docker', 'Kubernetes', 'Terraform', 'AWS', 'GitHub Actions'],
+      color: 'bg-blue-500',
+    },
+    {
+      label: 'Backend',
+      skills: ['Node.js', 'NestJS', 'PostgreSQL', 'Redis', 'Kafka'],
+      color: 'bg-green-500',
+    },
+    {
+      label: 'Systems',
+      skills: ['Linux', 'Kernel Tuning', 'Networking', 'n8n', 'OpenCore'],
+      color: 'bg-yellow-500',
+    },
+    {
+      label: 'AI & ML',
+      skills: ['LangChain', 'Ollama', 'Gemini API', 'RAG Pipelines', 'OpenAI'],
+      color: 'bg-purple-500',
+    },
+  ];
+
+  return (
+    <div className="space-y-4 py-2">
+      <p className="text-gray-400"># User Proficiency</p>
+      {categories.map((cat) => (
+        <div key={cat.label} className="grid grid-cols-1 md:grid-cols-2 gap-2 max-w-md">
+          <span className="text-purple-400">{cat.label}:</span>
+          <div className="flex flex-wrap gap-2">
+            {cat.skills.map((s) => (
+              <span key={s} className="px-2 py-0.5 bg-gray-800 border border-gray-700 rounded text-xs">{s}</span>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+};
+
+export const Projects = () => {
+  const projects = [
+    { id: 'mlops-pipeline.exe', tech: 'Python, Docker, AWS', impact: 'Automated training pipelines for deep learning models.' },
+    { id: 'crypto-stream.sh', tech: 'Go, Kafka, Redis', impact: 'Real-time websocket stream for global crypto exchanges.' },
+    { id: 'aws-infra.tf', tech: 'Terraform, AWS, GitHub Actions', impact: 'Multi-region disaster recovery infrastructure as code.' },
+    { id: 'api-platform.ts', tech: 'Next.js, NestJS, K8s', impact: 'Unified developer portal for internal microservices.' },
+    { id: 'rag-chatbot.py', tech: 'LangChain, OpenAI, Pinecone', impact: 'Context-aware RAG system for private documentation.' },
+  ];
+
+  return (
+    <div className="py-2">
+      <div className="grid grid-cols-1 gap-4 mt-2">
+        <table className="w-full text-left border-collapse border border-gray-800">
+          <thead>
+            <tr className="bg-gray-800/50">
+              <th className="p-2 border border-gray-800">Command</th>
+              <th className="p-2 border border-gray-800">Stack</th>
+              <th className="p-2 border border-gray-800">Impact</th>
+            </tr>
+          </thead>
+          <tbody>
+            {projects.map((p) => (
+              <tr key={p.id} className="hover:bg-white/5 cursor-pointer group">
+                <td className="p-2 border border-gray-800 text-blue-400 font-bold">./{p.id}</td>
+                <td className="p-2 border border-gray-800 text-xs text-gray-400">{p.tech}</td>
+                <td className="p-2 border border-gray-800 text-sm">{p.impact}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        <p className="text-xs text-gray-500 animate-pulse">Tip: Try typing the command name to see details (e.g., ./aws-infra.tf)</p>
+      </div>
+    </div>
+  );
+};
+
+export const Contact = () => (
+  <div className="space-y-4">
+    <div className="space-y-1">
+      <p>Email: <a href="mailto:njahjustus@gmail.com" className="text-blue-400 hover:underline">njahjustus@gmail.com</a></p>
+      <p>LinkedIn: <a href="linkedin.com/in/casper-justus" className="text-blue-400 hover:underline">Linkedin</a></p>
+      <p>GitHub: <a href="github.com/casper-justus" className="text-blue-400 hover:underline">Github</a></p>
+    </div>
+    <div className="border border-gray-800 p-4 rounded bg-black/20">
+      <p className="text-yellow-400 mb-2">Looking Forward to working with you :)</p>
+    </div>
+  </div>
+);
