@@ -25,5 +25,5 @@ When I'm not coding, I'm usually building homelab infrastructure, tweaking Linux
 </p>
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Insert your LinkedIn URL here]
-- **Portfolio/Website:** [Insert your personal website or Upwork link here]
+- **[LinkedIn](www.linkedin.com/in/casper-justus)** 
+- **[Portfolio/Website](#)** 
