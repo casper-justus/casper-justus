@@ -8,7 +8,7 @@ const firaCode = Fira_Code({
 });
 
 export const metadata: Metadata = {
-  title: "Casper Justus | Developer Portfolio",
+  title: "Justus Njagi | Developer Portfolio",
   description: "Cloud Engineer & SysAdmin Portfolio",
 };
 
