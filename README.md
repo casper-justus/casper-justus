@@ -16,7 +16,7 @@ When I'm not coding, I'm usually building homelab infrastructure, tweaking Linux
 - **[Real-Time Data Pipeline](https://github.com/casper-justus/crypto-pipeline):** Streaming data pipeline processing live events with Apache Kafka and PostgreSQL.
 - **[AWS Infrastructure-as-Code](https://github.com/casper-justus/aws-fullstack-infra):** Automated cloud infrastructure provisioning using Terraform, Docker, and Prometheus/Grafana.
 - **[Production-Grade REST API](https://github.com/casper-justus/api-platform):** Scalable TypeScript/Node.js API with PostgreSQL, Prisma, JWT auth, and automated testing.
-- **[RAG AI Assistant](https://github.com/casper-justus/rag-pipeline):** Context-aware chatbot built with LangChain, Gemini API, Qdrant vector DB, and Next.js.
+- **[RAG Chatbot](https://github.com/casper-justus/rag-chatbot):** Context-aware chatbot built with LangChain, Gemini API, Qdrant vector DB, and Next.js.
 
 ### 📈 GitHub Stats
 <p align="left">
