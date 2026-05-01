@@ -71,7 +71,7 @@ export const Projects = () => {
       id: 'mlops-pipeline.exe',
       tech: 'Python, Docker, AWS',
       impact: 'Automated training pipelines for deep learning models.',
-      repo: null,
+      repo: 'https://github.com/casper-justus/mlops-churn-pipeline',
     },
     {
       id: 'rag-chatbot.py',
