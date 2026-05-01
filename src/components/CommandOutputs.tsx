@@ -78,8 +78,8 @@ export const Contact = () => (
   <div className="space-y-4">
     <div className="space-y-1">
       <p>Email: <a href="mailto:njahjustus@gmail.com" className="text-blue-400 hover:underline">njahjustus@gmail.com</a></p>
-      <p>LinkedIn: <a href="#" className="text-blue-400 hover:underline">linkedin.com/in/casper-justus</a></p>
-      <p>GitHub: <a href="#" className="text-blue-400 hover:underline">github.com/casper-justus</a></p>
+      <p>LinkedIn: <a href="linkedin.com/in/casper-justus" className="text-blue-400 hover:underline">Linkedin</a></p>
+      <p>GitHub: <a href="github.com/casper-justus" className="text-blue-400 hover:underline">Github</a></p>
     </div>
     <div className="border border-gray-800 p-4 rounded bg-black/20">
       <p className="text-yellow-400 mb-2">Looking Forward to working with you :) </p>
