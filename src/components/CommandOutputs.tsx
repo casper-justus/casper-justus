@@ -101,7 +101,7 @@ export const Projects = () => {
   "id": "swahili-ai-model.ai",
   "tech": "TypeScript, JAX, Flax, Hugging Face Datasets",
   "impact": "Continued pretraining pipeline for a Swahili language model with mixed-domain data, checkpoint recovery, and improved text generation coherence.",
-  "repo": "https://github.com/casper-justus/your-ai-project-repo"
+  "repo": "https://github.com/casper-justus/swahili-gpt"
     },
   ];
 
